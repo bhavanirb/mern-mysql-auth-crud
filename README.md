@@ -1,4 +1,4 @@
-# 🔐 MERN Stack Auth System with MySQL
+# 🔐 MERN Stack Authentication System with MySQL Database & Dashboard CRUD
 
 A full-stack authentication system with dashboard CRUD operations built using React.js, Node.js, Express.js and MySQL.
 
